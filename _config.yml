@@ -57,8 +57,7 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   email: 'xctsprin@mail.ustc.edu.cn'	
-  weibo: '//weibo.com/lovecolcol'
-  instagram: '//www.instagram.com/steveliaocn'
+  weibo: '//weibo.com/xctsprinh'
   github: '//github.com/xctspring'
 
 # Tags 设置标签
